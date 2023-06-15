@@ -1,40 +1,40 @@
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
-	min-width: 475px;
-	max-width: 1400px;
-	height: 100vh;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+    min-width: 475px;
+    max-width: 1400px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #container {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
 }
 
 h1 {
-	padding: 10px;
-	margin: 5px;
+    padding: 10px;
+    margin: 5px;
 }
 
 #btn {
-	border-radius: 10px;
-	font-size: 15px;
-	padding: 10px 15px;
-	background-color: rgb(227, 248, 255);
-	font-weight: bold;
-	border: 1px solid rgb(105, 197, 255);
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 10px 15px;
+    background-color: rgb(227, 248, 255);
+    font-weight: bold;
+    border: 1px solid rgb(105, 197, 255);
 }
 
-	#btn:hover {
-		background-color: rgb(23, 152, 233);
-	}
+    #btn:hover {
+        background-color: rgb(23, 152, 233);
+    }
